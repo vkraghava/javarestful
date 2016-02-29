@@ -1,0 +1,3 @@
+com\example\rest\controller\RestExampleController.class
+com\example\rest\Bootable\Application.class
+com\example\rest\dto\Greetings.class
