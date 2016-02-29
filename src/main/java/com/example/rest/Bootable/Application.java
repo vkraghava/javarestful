@@ -8,7 +8,7 @@ public class Application {
 
 	
 	public static void main(String[] args){
-		// coments to git check in
+		// comments to git check in 2nd time
 		
 		SpringApplication.run(Application.class, args);
 	}
